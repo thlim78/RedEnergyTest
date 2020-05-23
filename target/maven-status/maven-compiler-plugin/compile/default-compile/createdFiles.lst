@@ -1,0 +1,14 @@
+simplenem12\model\type\RecordType.class
+simplenem12\exception\InvalidNMIException.class
+simplenem12\exception\InvalidDateFormatException.class
+simplenem12\SimpleNem12ParserImpl.class
+simplenem12\TestHarness.class
+simplenem12\exception\InvalidQualityException.class
+simplenem12\exception\InvalidEnergyUnitException.class
+simplenem12\model\MeterRead.class
+simplenem12\exception\InvalidFileContentException.class
+simplenem12\model\MeterVolume.class
+simplenem12\exception\FileNotFoundException.class
+simplenem12\model\type\Quality.class
+simplenem12\model\type\EnergyUnit.class
+simplenem12\SimpleNem12Parser.class
