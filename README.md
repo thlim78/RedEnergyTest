@@ -1,4 +1,4 @@
-# SimpleNem12Parser
+# Red Energy Technical Test
 
 ## Build & Run
 * To build, issue `mvn clean install`
